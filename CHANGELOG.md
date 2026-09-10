@@ -21,3 +21,7 @@ Added step-by-step prerequisites to the repository and participant READMEs: cons
 ## 2026-09-10 — public conference guide
 
 Added a VOIDGLOW static workshop website with direct edition downloads, the identical copyable START-HERE opening, setup and recovery guidance, a plain-language stack explanation, optional skills and archive invitations, larger text, and quieter wording. Explained token use as conditional rather than a promised saving. Made the participant repository public at Maya’s direction; the source Sanctum Method repository remains private. Added Netlify-ready packaging; no hosted website URL claimed.
+
+## 2026-09-10 — guided room setup and saving invitations
+
+The starter now carries a full continuing-setup invitation and proactive, consent-based save guidance. Added WALK-THROUGH-YOUR-BRAIN and SAVE-WHAT-MATTERS, connected from entry, first-time, context, PM, and welcome files. The guide offers each room at a human pace, asks about keeping useful decisions and preferences, and verifies actual saving. Both editions now contain 45 files.

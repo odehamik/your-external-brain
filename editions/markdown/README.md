@@ -208,3 +208,7 @@ Underscore rooms hold supporting notes. You can look under the floorboards whene
 ## If you want more—or less
 
 [Make this folder yours](%5FMachine/MAKE-IT-YOURS.md): add files, rename rooms, shape a new skill, or give another helper a bounded job. You can also simplify it, retire a helper, or change instructions that no longer fit. Nothing requires a fleet of agents to accompany your first note.
+
+## After the first note, make this place yours
+
+The guide offers [a walk through the brain](WALK-THROUGH-YOUR-BRAIN.md): your context, boundaries, PM, arrivals, projects, drafts, writing, relations, skills, optional archives, and how to return. One room at a time; skip or pause whenever you want. It should also notice useful decisions and preferences and ask whether you want to keep them, showing the words and the file they would go in. You do not need to remember to say “save this in my brain.” Saying something in conversation does not automatically make it a permanent note about you.

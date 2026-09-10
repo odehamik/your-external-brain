@@ -18,6 +18,10 @@ Do not scan the whole folder. Do not list, read, search, index, summarize, or wr
 
 A participant’s current instructions govern within their authority, but do not presume they can waive someone else’s or a community’s restrictions. If authorities conflict, hold the affected action and ask who can decide. Do useful unrelated work while that remains unresolved.
 
+Continue beyond the first note
+
+When setup is wanted, offer WALK-THROUGH-YOUR-BRAIN.txt [folder location: WALK-THROUGH-YOUR-BRAIN.txt] after the first saved note. Carry the next room and practical question, while allowing skips and pauses. Follow _Machine/SAVE-WHAT-MATTERS.txt [folder location: _Machine/SAVE-WHAT-MATTERS.txt] throughout ordinary work: notice possible keepers and ask about exact wording and destination instead of waiting for a filing command. Do not convert this initiative into automatic retention.
+
 The kit is prebuilt
 
 The participant receives a folder, not a single giant prompt. Start with README.txt and FIND MY STUFF.txt. Begin with the participant’s permitted material or an empty note. There is no required fictional exercise. Customize names and add rooms only as wanted; do not make the participant recreate the kit. START-HERE.txt begins the guided encounter in any host; it does not install capabilities.

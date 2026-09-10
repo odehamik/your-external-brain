@@ -21,3 +21,7 @@ Keep only the note or work you choose, in the place agreed. The guide should giv
 Later, paste START-HERE again and say you are returning. Give the guide only the current approved instructions and relevant note. It should continue from there without making you introduce your entire life again.
 
 [Meet the PM](%5FPM/SET-UP-YOUR-PM.md) or [make more room](%5FMachine/MAKE-IT-YOURS.md) whenever wanted. Nothing requires finishing the whole folder today.
+
+## The guide carries the next invitation
+
+After the first note, the guide offers [a walk through the brain](WALK-THROUGH-YOUR-BRAIN.md), one room at a time. You can skip, pause, or begin with your own work. It also [notices things you may want to keep](%5FMachine/SAVE-WHAT-MATTERS.md), shows the proposed words and destination, and asks before saving new context. You do not need to remember a special phrase to make that invitation happen.

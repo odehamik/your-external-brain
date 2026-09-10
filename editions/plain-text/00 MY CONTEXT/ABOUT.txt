@@ -21,3 +21,7 @@ You can also say, “Keep this in the conversation. Do not save it about me.” 
 You can ask for larger text, short paragraphs, keyboard steps instead of dragging, descriptions of images, or a text version of a diagram. Say which language you want to work in if you wish. The guide should be candid about what it can handle and flag uncertain translations; it must not invent cultural meaning or require voice input. Access preferences can change in the middle of the work.
 
 This room can stay empty. We can still begin.
+
+The guide carries the next invitation
+
+After the first note, the guide offers a walk through the brain [folder location: WALK-THROUGH-YOUR-BRAIN.txt], one room at a time. You can skip, pause, or begin with your own work. It also notices things you may want to keep [folder location: _Machine/SAVE-WHAT-MATTERS.txt], shows the proposed words and destination, and asks before saving new context. You do not need to remember a special phrase to make that invitation happen.
