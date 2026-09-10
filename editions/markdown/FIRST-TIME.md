@@ -1,0 +1,23 @@
+# Begin with the conversation
+
+Open [START-HERE.txt](START-HERE.txt). Copy its contents into a new AI conversation and send. [Opening instructions](00%20OPEN%20ME%20FIRST.txt) explain the literal steps.
+
+The guide should welcome you and ask one useful setup question. It then carries the next step, waits for your answer, and changes its instructions to match what actually happened. You do not need to read the rest of the folder first.
+
+If it starts describing how good the instructions are, say: “Begin guiding me now. Give me the first step and wait.” The instructions have already received enough attention. You are the person trying to open a folder.
+
+## What the guide helps with
+
+Open or extract the ZIP. Choose one working edition and a place you can find again. Check the app’s actual access and relevant settings before bringing personal material. Then make or place one note you choose, and find the saved file together. An empty note is enough. No fictional test is required.
+
+On a shared device, choose a permitted location. If you cannot download or save yet, work with the starter text and ask for a manual route. You do not need a new subscription, Obsidian, a terminal, or an installed agent to begin.
+
+The person beside you can help with opening a file without being given your password or private material. Keyboard copy and paste is available; dragging is optional. Ask for shorter replies, larger text, a readable description, or a different language as needed. The guide must flag uncertain translations and keep cultural adjudication with the people who carry it.
+
+## When you return
+
+Keep only the note or work you choose, in the place agreed. The guide should give you the actual filename and location. If it can only write in chat, it must help you save and say that you did the saving.
+
+Later, paste START-HERE again and say you are returning. Give the guide only the current approved instructions and relevant note. It should continue from there without making you introduce your entire life again.
+
+[Meet the PM](%5FPM/SET-UP-YOUR-PM.md) or [make more room](%5FMachine/MAKE-IT-YOURS.md) whenever wanted. Nothing requires finishing the whole folder today.

@@ -1,0 +1,5 @@
+# Projects and tangents
+
+Nothing entered yet. You can begin with a question, a piece of work, or something you want to leave open.
+
+With permission, add a name the person recognizes, its project location, what is current or held, and a source for the note. Do not invent a deadline or turn a tangent into a commitment. Accepted tasks belong in THE-ONE-LIST.md; link there rather than keeping competing task lists.

@@ -1,0 +1,41 @@
+Find my stuff
+
+You do not have to remember the route. Begin here.
+
+Start or continue
+
+- Read the welcome and setup [folder location: README.txt].
+- Begin with one thing [folder location: FIRST-TIME.txt].
+- Settings and getting unstuck [folder location: _Machine/SETTINGS-AND-STUCK.txt].
+- Add rooms, skills, or agents [folder location: _Machine/MAKE-IT-YOURS.txt].
+- Find the One List [folder location: _PM/THE-ONE-LIST.txt].
+- See projects and tangents [folder location: _PM/PROJECTS-AND-TANGENTS.txt].
+- See the constellation [folder location: _Ceremony of relations/Constellation.txt].
+
+- Set up the PM as your main agent [folder location: _PM/SET-UP-YOUR-PM.txt].
+- Choose optional skills [folder location: _Machine/CHOOSE-SKILLS.txt].
+- Read the governance ground [folder location: _Ceremony of relations/GOVERNANCE.txt].
+
+Your rooms
+
+- Put permitted arrivals here [folder location: 00 HUMAN PUT STUFF HERE/ABOUT.txt].
+- Change how the guide works with you [folder location: 00 MY CONTEXT/ABOUT.txt].
+- Your writing and publications [folder location: 00 MY PUBLICATIONS/ABOUT.txt].
+- Set up your own project [folder location: 01 PROJECTS/ABOUT.txt].
+- Human relations [folder location: 02 HUMAN RELATIONS/ABOUT.txt].
+- Institutional dealings [folder location: 03 INSTITUTIONS/ABOUT.txt].
+- Bring old sessions into Muck [folder location: _Muck/ABOUT.txt].
+- Choose optional helper jobs [folder location: _Machine/HELPERS.txt].
+- Read or change the boundaries [folder location: _Ceremony of relations/BOUNDARIES.txt].
+
+Finished work
+
+Nothing finished yet. When you accept and save something, the guide puts its direct link here. You can return to the work without first remembering what the machine decided to call its drafts.
+
+This page is navigation. Tasks live only in the One List; relationships and connections live in the constellation. No duplicate task lists here.
+
+Beginning and changing the arrangement
+
+- Literal opening instructions [folder location: 00 OPEN ME FIRST.txt].
+- Copy this into a new conversation [folder location: START-HERE.txt].
+- What we are learning together [folder location: _Ceremony of relations/WHAT WE ARE LEARNING.txt].

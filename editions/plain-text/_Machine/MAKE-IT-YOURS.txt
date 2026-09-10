@@ -1,0 +1,51 @@
+There can be more rooms
+
+You begin using the folder and discover that a piece of work belongs somewhere the folder has not imagined. Good. The folder has encountered you.
+
+“Can we give this its own place?” is enough to begin. You can also ask for fewer rooms, different names, a different language, or a map arranged around the way you look for things. The guide should help with that change before proposing an entire new civilization of subfolders.
+
+More files, or a room with a different shape
+
+Name what you want to keep and how you would look for it again. The PM can suggest a small arrangement, then create what you choose within its actual access. A project might follow seasons, community questions, people’s agreed responsibilities, or a funder’s requirements alongside what the community wants. These are possibilities, not categories everyone must adopt.
+
+A new room needs only enough guidance to avoid confusion: what belongs here, what may be read or changed, whose rules apply, and where finished work goes. Put that in a short ABOUT file. A missing boundary is not permission to read everything. Keep restricted names and explanations out of general navigation.
+
+Useful files you may ask for include a reading notebook, a place for unresolved questions, a publication map, a decision record, a workshop plan, a resource collection, or a handoff for the next conversation. Choose only what you will use. A blank file does not need to become a moral obligation.
+
+Before rearranging existing work, agree the changes and keep a permitted recoverable copy or use the chosen storage system’s version history. Respect the same access rules for backups. Do not copy protected material into a more widely shared backup. The guide preserves originals unless a specific replacement or removal is authorized, and checks for unsaved or newer human edits.
+
+When renaming a room, the PM updates its allowed incoming links, FIND MY STUFF, affected entry instructions, and relevant project/build maps. It reports links it cannot inspect. Do not search excluded areas to repair navigation. Open the new route to confirm you can find the work. If an app stores old attachments, replace those selected copies deliberately.
+
+More ways of helping
+
+A skill is a written way to do a particular kind of work. Start with the skill choices [folder location: _Machine/CHOOSE-SKILLS.txt]. Tell the PM what you keep having to explain; it can help draft a small reusable procedure from your approved instructions. Keep the procedure separate from the private material that helped you discover it.
+
+A useful skill says when to use it, what it may read or change, what steps matter, what to do when it cannot proceed, and where its result belongs. Record selected skills in SELECTED [folder location: _Machine/Skills/SELECTED.txt]. Selection does not prove reliability. Observe it on permitted work before relying on its results. For protected-data handling, the relevant human authority still decides whether the system is suitable.
+
+An outside plugin or skill may contain software, scripts, network access, or further instructions. Review its source, permissions, costs, and actual requirements before choosing to install it. Text instructions can be read by different models; installing a native skill is app-specific. The plain-text kit does not automatically install anything.
+
+More agents, if you want them
+
+You might want a helper to follow sources while another attends to a draft. Or one helper may be quite enough. Two agreeing models do not make a fact twice as true.
+
+Use the helper menu [folder location: _Machine/HELPERS.txt], then shape one job at a time. The PM can ask these questions when the answers matter; do not administer them as a form:
+
+- What would you like this helper to take care of?
+- When should it join in, and when should it stay out?
+- Which exact files can it read? Where can it write?
+- What needs to come back to you for a decision?
+- How will you recognize useful work, and where will you find it?
+
+Save the chosen job in a separate file under _Machine/Helpers/ only when wanted. Include the job, trigger, permitted inputs and outputs, boundaries, required tools/manual alternative, and how to stop using it. Link it from HELPERS.txt. Start inactive until selected for actual work.
+
+A named role may be the same model following a different procedure. A separate running agent needs an app that supports it, verified setup, and permission for the particular work. Explain any extra costs and whether data goes to another provider. The participant does not need separate agents to use these files.
+
+For real delegation, pass only the permitted information each helper needs. Do not send the whole chat or vault by default. A helper inherits the boundaries; it cannot widen them. Give concurrent writers separate draft destinations and let the PM reconcile proposed changes with the human’s current work. Keep accepted tasks in the existing One List. Each helper reports what it actually did, where the result is, and what remains uncertain. No recursive hiring, sending, publishing, purchases, or new connections without applicable authority.
+
+You can undo the arrangement
+
+Tell the PM, “That instruction no longer fits.” It should show the relevant saved wording, help revise it, and identify the approved places using it. Correct provider memory separately if it contains the old preference; changing a local note cannot change a remote memory automatically.
+
+To retire a helper, mark it inactive in the helper/skill selection record and remove it from the active entry route. If something really is running, inspect the actual app and pause or disable the job there within permission. Removing its description does not stop a schedule. Disconnect its access if wanted and supported; keep only the records you choose and are entitled to retain.
+
+When replacing the whole starter kit with a later edition, do not overwrite your customized folder. Keep your working copy, compare the selected changed instructions, and bring across only what you want. No need to keep accepting the starter folder’s opinion forever.

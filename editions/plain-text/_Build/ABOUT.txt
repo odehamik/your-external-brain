@@ -1,0 +1,11 @@
+How we made it
+
+The person opens the finished piece. You should still be able to find what went into it: the draft, the sources, the experiment that worked, the setting you will otherwise spend next week rediscovering.
+
+Keep drafts, designs, and working materials under their named project here. When the person accepts the work, save that version at the agreed project or publication home. Give them the direct link. They do not need to walk through every abandoned attempt to reach the thing they asked for.
+
+For each accepted output, keep a short BUILD-RECORD.txt: final location, source locations, tools and versions where relevant, reusable steps, and what was verified. Reopen the accepted file before saying it is there.
+
+A technique that worked may be useful elsewhere. Propose it for _Machine/; permission to reuse the technique does not include the project’s data, writing voice, images, or private relationships. Keep versions without overwriting the original. If exact reproduction is impossible, say what is missing.
+
+The trail matters because someone may return differently—with another model, another question, or a reason to undo what looked right today.

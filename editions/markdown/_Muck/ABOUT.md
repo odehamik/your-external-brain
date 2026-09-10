@@ -1,0 +1,33 @@
+# Muck: bring the old conversations home
+
+There it is. The conversation you remembered having, and could not find.
+
+Read it again and it may be different from what you remembered. The useful thought could be in a reply you disagreed with. A plan you once wanted may belong firmly to then. Bringing the conversation home gives you a way to return; it does not decide what you still owe it.
+
+You can bring an export of previous AI sessions into this folder as an archive. This is optional. If you want to do this, start with one selected session permitted in this tool. You can leave importing for another day.
+
+## Choose what is allowed before the guide reads it
+
+Keep a mixed or unreviewed full-account export outside the connected folder. It may contain personal conversations, other people’s information, attachments, and instructions you no longer want. Do not upload the whole export just so the model can find out what should never have been uploaded.
+
+Choose the sessions or date range and exclusions yourself, or with an authorized human helper. If your app cannot select sessions, ask the guide for current export instructions matched to the actual app; then make a permitted subset before giving it AI access. A private original can stay elsewhere. The guide need not know its private path or filenames.
+
+For material already permitted to enter this tool, choose an import scope: what it may read, why, where it may keep the archive, and who may see the resulting index. Possession of a conversation is not automatic permission to reuse everyone’s words.
+
+## Three ways to use an export
+
+- **Keep it, do not read it:** save it yourself outside AI access. No model-created index or content scan. The guide can give saving instructions without opening it.
+- **Archive and find:** authorize selected sessions to be read and indexed in `Archive/`. No task or context changes.
+- **Archive and reconnect:** authorize indexing plus proposals for connections to current projects, the constellation, and the One List. Review those proposals before they are applied.
+
+Pick one mode. A scheduled Muck job does not get permission to import more just because this import happened once.
+
+## What you get
+
+The permitted source is kept unchanged under a unique import name. A small [archive index](ARCHIVE-INDEX.md) points to the session and its source location. [Import rules](IMPORT-RULES.md) explain how the guide preserves provenance and avoids duplicate imports.
+
+For archive-and-reconnect, the guide prepares a [review note](REVIEW-QUEUE.md). You decide which connections become current. An accepted connection can link the archive to the [constellation](../%5FCeremony%20of%20relations/Constellation.md); an accepted task goes only into [the One List](../%5FPM/THE-ONE-LIST.md), with a source link. Sensitive material stays out of general maps, including revealing titles or link labels.
+
+An old assistant statement is not proof. “Sent,” “finished,” “agreed,” and “approved” need the actual evidence or a current human ruling. The archive preserves the conversation; it does not certify it.
+
+You can stop after indexing. You found the conversation. What you want to do with it may become clear another time.

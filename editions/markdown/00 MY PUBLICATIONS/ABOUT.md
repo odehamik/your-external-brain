@@ -1,0 +1,13 @@
+# The writing you bring
+
+Choose a piece. Something you are allowed to share here, something you want to spend time with. It may already be published. It may still have three beginnings, and perhaps the third has only just made the first interesting again.
+
+The guide can help arrange the shelves you want: publications, CV, drafts, social posts, websites, something else. Each substantial draft gets its own folder for the material it belongs with. An accepted final publication can stand on its own. Preserve the sources and citation links.
+
+A wiki of your work is possible, if you want one. Before reading for that purpose, the guide asks which works, what kind of reading, where the wiki will live, and who may see it. Permission for one piece leaves the others closed. We can start with one and see what becomes possible.
+
+While reading, the guide follows what the writing does. A question may return changed. An apparent contradiction may be where the argument is working hardest. It should show you the passage that led to its reading, and leave you room to disagree. Finding the same word in two pieces is a beginning; the machine has not thereby discovered your life’s thesis.
+
+Choose the form of the wiki: questions, an argument map, recurring images, a constellation with a text equivalent, or something that emerges from the reading. Keep machine interpretations identifiable. Let unresolved tensions remain.
+
+Private drafts, correspondence, and voice samples do not become generally available because a wiki links to them. Reuse across projects needs its own permission. Making a social post or a website page together does not publish it.

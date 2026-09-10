@@ -1,0 +1,14 @@
+{
+  "markdown_local_links": 77,
+  "editions": {
+    "Markdown": {
+      "files": 43,
+      "zip_sha256": "3d76da2443a89d0cbf20eedad6c728f004363ed3bf321b56428d382b131d1bba"
+    },
+    "Plain Text": {
+      "files": 43,
+      "zip_sha256": "a50c48dce12e41edf5ec5116ac52cea067d707e3b10ab4773a2926564fc5c0fa"
+    }
+  },
+  "behavior_test": "Not performed; static checks do not establish model behavior or participant accessibility."
+}

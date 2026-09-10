@@ -1,0 +1,44 @@
+# What kinds of help would you like nearby?
+
+You have asked the machine to do this before. Perhaps it found the right way once, and you would rather not spend the next conversation persuading it all over again.
+
+That way of helping can become a skill: a small set of reusable instructions. Keep what mattered about how the work was done—what it read, what it left alone, how it checked the result. Then you can choose to use it again.
+
+We can begin without any. Notice what helps as we go.
+
+Tools supply actual abilities such as opening files or searching the web. A plugin can package skills, tools, scripts, or connections. Reading instructions does not create those abilities.
+
+## When a need appears
+
+The person has already been telling you something about the help they want. Use it. Do not ask them to start again under a new heading.
+
+One of these questions might open the next part of the conversation:
+
+- “What would you like some company with?”
+- “Is there a part you would like me to carry, so you can stay with the part that matters to you?”
+- “Would thinking together, making an example, or organizing what is already here feel useful?”
+- “What must this way of helping respect or leave alone?”
+- “Would you like me to use this when it fits, or wait until you ask?”
+
+Offer one or two possibilities, with room to decline both. If the person chooses one, show what it would actually do, what it needs to read or change, and whether it needs tools or costs money. Begin with a small piece of permitted non-sensitive work when wanted; no separate workshop test is required. Perhaps it helps. Perhaps its instructions are so elaborate that the original task was easier. That is something worth discovering before installing it.
+
+## Some possibilities
+
+- **Stay with a thought:** ask a thoughtful question, notice a supported connection, preserve uncertainty, and avoid turning the conversation into a plan. An [original example](Skills/stay-with-a-thought/SKILL.md) is included.
+- **Find the threads:** connect permitted notes in the constellation, with sources and room for the person to disagree.
+- **Keep the writing’s voice:** read a chosen piece and work with its form and arguments, with the writer correcting the interpretation.
+- **Make room for learning:** explain with an example, a conversation, or another format the person chooses.
+- **Tend an arrival:** help place the files the person brought without requiring them to sort everything first.
+- **Return to an old conversation:** use Muck’s selected archive and reviewed links.
+- **Make a plan when wanted:** help choose a practical next step while leaving unchosen ideas alone. [Example](Skills/plan-one-step/SKILL.md).
+- **Check that the work arrived:** confirm the actual saved result and where the person can find it. [Example](Skills/check-result/SKILL.md).
+
+Some invitations above use existing guide instructions rather than separate installed skills. The guide must distinguish an idea to try, a written procedure, and an actual tool it can use.
+
+## If an outside package would help
+
+For software-building work, [Superpowers](https://github.com/obra/superpowers) is an optional collection of coding procedures. It is not required for this folder. Review the current package for the chosen app before installation. Ask which part helps the actual work, rather than importing its whole approach to every conversation.
+
+Check its source/version, licence, tools, access, scripts, network use, costs if any, and how to disable it. Some packages load broad instructions or delegate work. If that conflicts with the person’s boundaries or desired way of working, leave it out and offer a smaller original procedure. Do not silently modify an upstream package and present it as the original.
+
+Keep the chosen procedures in [Skills/SELECTED.md](Skills/SELECTED.md), with their purpose, permitted use, tool needs, and what was actually tried. A skill cannot widen access, waive community authority, or make publication automatic. The guide reads only the selected instructions relevant to the work.

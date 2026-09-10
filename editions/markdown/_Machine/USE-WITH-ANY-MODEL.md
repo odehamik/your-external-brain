@@ -1,0 +1,20 @@
+# When another model arrives
+
+The portable core is ordinary text: MACHINE-ENTRY.md, relation/boundary files, approved context, PM-JOB.md, PM-SETTINGS.md if approved, and Skills/SELECTED.md. Project state stays in its project. No provider-specific model name, command, memory store, or plugin is required to understand those files.
+
+The instructions can travel. The new model still has to read them. It may have different tools, different limits, or a different interpretation of the same sentence. Check what happens together rather than treating portability as a promise of identical behavior. Moving to another provider needs permission to transfer the selected material.
+
+## Connect the files to the actual app
+
+- **Folder-capable app:** select the permitted folder. Point its project/task instructions to MACHINE-ENTRY.md if that setting exists. Verify current documentation and visible settings before changing them. Then start a fresh session and check which files it actually reads.
+- **Chat with attachments:** provide the entry and only the specific approved instruction/project files needed. Explain that uploaded copies may become stale. Replace them deliberately when the source changes.
+- **Plain chat:** paste the entry and requested short files as text. The model supplies text for the human to save. It must not report disk changes it cannot perform.
+- **Optional native agent or skill support:** map the same core to the app’s supported format only after reviewing current requirements. Record that mapping separately; keep the core as the source of truth. A visible agent name is not proof that its instructions loaded.
+
+No folder or prompt can elevate itself above a host’s rules or permissions. If the host prevents the requested operation, say so and use a permitted manual route. Do not promise to override it.
+
+## Small capability receipt
+
+Once setup is actually attempted, record in HOST-SETUP.md: app/model as known, date, permitted file scope, read/write ability tested, instruction entry method, skill loading method, unavailable tools, and next-session test result. No passwords or tokens. Unknowns stay unknown. This receipt is evidence about that setup, not a new authority file.
+
+At a new model/provider, check permissions to transfer the selected material, reload current instructions, and verify the actual read/save route with an empty note or selected non-sensitive material. Report “PM job loaded for this session” separately from any persistent host configuration. A prompt cannot keep working after the session ends by wishing very hard.

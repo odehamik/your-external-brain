@@ -1,0 +1,7 @@
+Archive connections awaiting your decision
+
+No proposals yet.
+
+For each proposed connection, show its source session/message, what it might connect to, whether it is historical or potentially current, and the decision needed. A possible task has no authority until accepted now.
+
+After review, record applied, declined, or held and link to the actual destination where permitted. This page tracks import decisions; it is not another task list.

@@ -1,0 +1,9 @@
+Selected skills
+
+No optional skills selected yet. The examples in this folder are available to try; they are not active by default.
+
+The core PM job follows its approved settings without requiring a plugin. Add one row per selected skill: name and relative link/source, when to use it, permitted scope/actions, tools required or manual fallback, selected date/version, and test state. A decision to try a skill is not a claim it passed.
+
+Original examples: Stay with a thought [folder location: _Machine/Skills/stay-with-a-thought/SKILL.txt], Plan one useful step [folder location: _Machine/Skills/plan-one-step/SKILL.txt] and Check the result [folder location: _Machine/Skills/check-result/SKILL.txt].
+
+To retire a skill, mark it inactive here and remove its active host mapping if one exists. Preserve the prior version as evidence when appropriate; do not silently erase the change history. No inactive skill is loaded merely because its folder exists.
