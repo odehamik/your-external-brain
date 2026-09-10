@@ -101,4 +101,4 @@ This repository is public. The ZIPs also work independently when sent by the fac
 
 ## Conference website
 
-The `site/` folder is a complete static workshop guide with direct downloads, a copyable opening, optional plainer wording, and larger text. See [WEBSITE.md](WEBSITE.md) for Netlify publishing. GitHub hosts the source and files; the website is not yet assigned a public hosting URL.
+The `site/` folder is a complete static workshop guide with direct downloads, a copyable opening, optional plainer wording, and larger text. See [WEBSITE.md](WEBSITE.md) for Netlify publishing. Open the live workshop guide: https://your-external-brain.netlify.app/. Netlify deploys the main branch and serves the site/ folder.

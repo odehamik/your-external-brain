@@ -1,4 +1,8 @@
-# Publish the workshop guide
+# Workshop website
+
+Live: https://your-external-brain.netlify.app/
+
+Netlify dashboard: https://app.netlify.com/projects/your-external-brain/overview
 
 The complete, prebuilt website is in `site/`. No installation, account key, or build command is needed to serve it. The site does not connect to an AI service. All participant downloads and starter text are bundled locally.
 
@@ -8,7 +12,7 @@ The complete, prebuilt website is in `site/`. No installation, account key, or b
 2. Drop the `site` folder (the one containing `index.html`) onto the page. If using the prepared Netlify Site ZIP, unzip it and drop the extracted `Your External Brain - Site` folder instead.
 3. Open the resulting Netlify address. Check the project's visibility settings: some teams default to private. Make it public for participants, then test the address in a signed-out/private browser window and download an edition before sharing.
 
-Netlify account and plan terms still apply. No live Netlify address has been created by preparing these files. Official guide, checked 10 September 2026: https://docs.netlify.com/start/quickstarts/netlify-drop-quickstart/
+Netlify account and plan terms still apply. Live site: https://your-external-brain.netlify.app/ — published on 10 September 2026 through the GitHub connection. Production follows main and publishes site/. Official guide, checked 10 September 2026: https://docs.netlify.com/start/quickstarts/netlify-drop-quickstart/
 
 Alternatively, connect this GitHub repository to Netlify. The included `netlify.toml` points to the prebuilt `site` folder. No build command is required.
 
