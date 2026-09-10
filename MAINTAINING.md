@@ -11,3 +11,5 @@ The generator does not silently delete unexpected files. If removing a source fi
 Provider settings were checked on the dates stated in the relevant file. Recheck official help when changing them. Do not change a dated note to today without verification.
 
 This kit was developed from Maya Chacaby’s directions, the prior external-brain folder, and a review of her Sanctum Method onboarding. The separate private source repository and MythOS vault are not dependencies. Do not copy their private context or live runtime into participant releases.
+
+After building the participant editions, run `python3 tools/build-site.py` to refresh the website downloads, starter, and Netlify ZIP. See WEBSITE.md for publishing.

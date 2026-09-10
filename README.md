@@ -50,7 +50,7 @@ If this route is not already familiar, ask for help before installing it. You ca
 
 Choose **Plain Text** or **Markdown** using the ZIP links in the repository, or use the ZIP your facilitator sent. If you are already reading this inside an extracted folder, this step is done.
 
-On GitHub, open the ZIP’s page and select **Download raw file** or the download icon. You need the participant ZIP, not the whole repository. Private-repository links require access; ask the facilitator for the ZIP directly if you cannot open them.
+On GitHub, open the ZIP’s page and select **Download raw file** or the download icon. You need the participant ZIP, not the whole repository. No GitHub account is needed for this public repository. Ask the facilitator for the ZIP directly if downloads are blocked on your network.
 
 Find the downloaded ZIP, usually in Downloads. On a Mac, double-click it to extract the folder. On Windows, right-click it and choose **Extract All**, then follow the prompts. Use your device’s archive/file app on other systems, or ask for help. Move the extracted folder somewhere you recognize and are permitted to keep it. Keep the original ZIP separately if you want a fresh copy later.
 
@@ -97,4 +97,8 @@ The handshake locates the machine’s material and political relations and gives
 
 [Facilitator notes](editions/markdown/FACILITATOR-NOTES.md) · [What changed](CHANGELOG.md) · [Maintaining the editions](MAINTAINING.md)
 
-This repository is initially private. Its GitHub links work only for people with access; the ZIPs work independently when sent by the facilitator. No account settings, agents, or schedules are enabled by these files.
+This repository is public. The ZIPs also work independently when sent by the facilitator. No account settings, agents, or schedules are enabled by these files.
+
+## Conference website
+
+The `site/` folder is a complete static workshop guide with direct downloads, a copyable opening, optional plainer wording, and larger text. See [WEBSITE.md](WEBSITE.md) for Netlify publishing. GitHub hosts the source and files; the website is not yet assigned a public hosting URL.

@@ -17,3 +17,7 @@ The prior accepted package is preserved in Maya’s project build history. Stati
 ## 2026-09-10 — Download and app setup
 
 Added step-by-step prerequisites to the repository and participant READMEs: considered provider choice, official app/browser links, local-model versus harness/router distinctions, ZIP extraction, opening the existing Markdown folder in Obsidian, suggested settings, text-editor alternatives, copying the starter into chat, and permissions/data-settings help. Official sources checked; personal Obsidian settings were not inferred.
+
+## 2026-09-10 — public conference guide
+
+Added a VOIDGLOW static workshop website with direct edition downloads, the identical copyable START-HERE opening, setup and recovery guidance, a plain-language stack explanation, optional skills and archive invitations, larger text, and quieter wording. Explained token use as conditional rather than a promised saving. Made the participant repository public at Maya’s direction; the source Sanctum Method repository remains private. Added Netlify-ready packaging; no hosted website URL claimed.
