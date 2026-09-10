@@ -13,3 +13,7 @@ Revises the accepted Draft 7 after Maya reported that a Plain Text participant c
 - Added a simple repository with two routes and matching ZIPs. No dependency installation needed for participants.
 
 The prior accepted package is preserved in Maya’s project build history. Static package/link checks are distinct from unperformed fresh-model behavior and participant accessibility tests.
+
+## 2026-09-10 — Download and app setup
+
+Added step-by-step prerequisites to the repository and participant READMEs: considered provider choice, official app/browser links, local-model versus harness/router distinctions, ZIP extraction, opening the existing Markdown folder in Obsidian, suggested settings, text-editor alternatives, copying the starter into chat, and permissions/data-settings help. Official sources checked; personal Obsidian settings were not inferred.

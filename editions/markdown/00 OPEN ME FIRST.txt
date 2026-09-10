@@ -2,6 +2,8 @@ YOUR EXTERNAL BRAIN — BEGIN HERE
 
 You do not have to become formal to speak to this machine.
 
+Need an AI app or a way to open this folder first? Open README.md in the Markdown edition or README.txt in the Plain Text edition. “Get the tools ready” has official download links, login steps, Obsidian settings, and the plain-text route. Already ready? Begin below.
+
 1. Open START-HERE.txt in this folder. Select and copy all the text inside it.
 2. Open a new conversation in the AI app you use. Paste the text into the message box and send it.
 3. The AI should begin helping you set up, one step at a time. Answer in your own words. “I do not know” is a usable answer.
