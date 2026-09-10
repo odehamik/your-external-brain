@@ -51,6 +51,8 @@ def convert(source, content):
 
 
 def build():
+    # Git does not retain empty directories; restore the supplied archive room.
+    (SOURCE / "_Muck/Archive").mkdir(parents=True, exist_ok=True)
     TEXT.mkdir(parents=True, exist_ok=True)
     DIST.mkdir(exist_ok=True)
     expected = set()
