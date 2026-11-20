@@ -1,6 +1,7 @@
 # Changes
 
 ## 2026-11-20 — Links and folder access
+- Set up your app is now in the main menu and the Get started step strip.
 - Kit: PROVIDER-SETTINGS rechecked 2026-11-20 (current labels “Help improve Claude” and “Data controls”; folder access through Claude Cowork or the Filesystem extension and ChatGPT desktop Work; backup and OneDrive/iCloud guidance; screen control not needed). SETTINGS-AND-STUCK gains the sync-folder and desktop-app checks. README dates and MACHINE-ENTRY release line updated; GitHub README loses its leftover Gemini row.
 - Added setup.html, a separate “Set up your app” page with a Claude/ChatGPT switch: back up first, install the desktop app, turn off training, keep the folder out of OneDrive/iCloud, connect one folder, a harmless first test, what folder access does and does not allow, and a stuck list. Linked from steps 1 and 3. Menu paths checked 2026-11-20.
 - Removed Gemini as a recommended route: its chat app cannot open a participant's folder, and Gemini CLI is no longer offered to individual accounts. Participants using another service still have the general provider-settings guidance.
