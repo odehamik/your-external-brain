@@ -4,6 +4,7 @@
 
 - Removed Gemini as a recommended route: its chat app cannot open a participant's folder, and Gemini CLI is no longer offered to individual accounts. Participants using another service still have the general provider-settings guidance.
 - Explained the difference between a browser chat (paste in, save replies yourself) and the Claude or ChatGPT desktop apps or a local harness (can open one permitted folder).
+- The One List now says how things leave: done or let go both close an item; waiting-on-others has its own section; the PM proposes, the person ticks.
 - Fixed the CARE principles link (gida-global.org/care now returns 404; /careprinciples works).
 - Provider settings dates unchanged: the ChatGPT and Claude notes were not re-verified in this change.
 
