@@ -1,6 +1,7 @@
 # Changes
 
 ## 2026-11-20 — Links and folder access
+- Added setup.html, a separate “Set up your app” page with a Claude/ChatGPT switch: back up first, install the desktop app, turn off training, keep the folder out of OneDrive/iCloud, connect one folder, a harmless first test, what folder access does and does not allow, and a stuck list. Linked from steps 1 and 3. Menu paths checked 2026-11-20.
 
 - Removed Gemini as a recommended route: its chat app cannot open a participant's folder, and Gemini CLI is no longer offered to individual accounts. Participants using another service still have the general provider-settings guidance.
 - Explained the difference between a browser chat (paste in, save replies yourself) and the Claude or ChatGPT desktop apps or a local harness (can open one permitted folder).
