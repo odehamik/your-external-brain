@@ -99,7 +99,7 @@ If it summarizes the prompt, say: “Begin guiding me now. Give me the first ste
 
 Before bringing your own work, ask the guide to help check file permissions and training/data settings [folder location: _Machine/SETTINGS-AND-STUCK.txt]. It can begin with an empty note while settings are unresolved. Downloading the app is not the same as agreeing that it may read your life.
 
-Official links and the named setup controls were checked on 10 September 2026. If the screen differs, tell the guide what it says; it should check current official help rather than insist the button must be there.
+Official links and the named setup controls were checked on 20 November 2026. A step-by-step walkthrough for the Claude and ChatGPT desktop apps, including backups, privacy settings, and keeping the folder out of OneDrive or iCloud, is at https://your-external-brain.netlify.app/setup.html. If the screen differs, tell the guide what it says; it should check current official help rather than insist the button must be there.
 
 Use your words
 

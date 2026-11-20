@@ -1,16 +1,30 @@
 # Which app is this, exactly?
 
-Settings notes checked against official help on 9 September 2026. Labels and availability can change. These are directions to the relevant controls, not a report about your account. The guide should use only the section that matches the actual app, account, and device, and check current official help when the screen differs.
+Settings notes checked against official help on 20 November 2026. Labels and availability can change. These are directions to the relevant controls, not a report about your account. The guide should use only the section that matches the actual app, account, and device, and check current official help when the screen differs. A walkthrough with both apps side by side lives at [your-external-brain.netlify.app/setup.html](https://your-external-brain.netlify.app/setup.html).
+
+## Before connecting any folder
+
+Suggest a backup first: Time Machine on a Mac, or a plain copy of important folders onto a drive the person can hold. The Windows Backup app sends files to OneDrive, so it does not serve this purpose.
+
+Check where the folder lives. Windows often moves Desktop and Documents into OneDrive without asking; Macs can do the same with iCloud “Desktop & Documents Folders”. A synced folder causes conflict copies when the AI writes during a sync, files that exist only in the cloud and cannot be read, and, on a work or school account, material sitting under the institution’s data rules. If the path contains OneDrive, iCloud, Google Drive, Dropbox, or Box, help the person make a folder in their own user folder instead (Windows: type `%USERPROFILE%` in the File Explorer address bar; Mac: Finder → Go → Home). On a managed computer, leave the sync service’s settings alone.
 
 ## ChatGPT personal account
 
-On the signed-in website: profile → Settings → Data Controls → turn off “Improve the model for everyone” if you do not want conversations used for model training. On mobile: sidebar → profile → Data Controls → the same control. The account setting applies across devices; chat history can remain available. Temporary Chat does not create memories or appear in history and is not used for training, but OpenAI describes retention for up to 30 days and possible abuse review. [OpenAI Data Controls FAQ](https://help.openai.com/en/articles/7730893-data-controls-faq).
+**Training.** Profile → Settings → Data controls → turn off “Improve the model for everyone” if you do not want new conversations used for model training. On mobile: sidebar → profile → Data controls → the same control. The setting applies to the account across devices; chat history remains. Temporary Chat does not create memories or appear in history and is not used for training, but OpenAI describes retention for up to 30 days and possible abuse review. [OpenAI Data controls](https://help.openai.com/en/articles/7730893-data-controls-faq).
 
-Do not assume these directions describe a separate coding app, API, or work/education workspace. Check that product’s own controls and terms. Training, memory, shared links, and file access are separate questions.
+**Folder access.** Only the desktop app can open a folder; the website and mobile app cannot. In the desktop app, choose Work from the mode switcher, then open a local folder (or add a local project) and select only this folder. Desktop Work threads and local files stay on that computer and do not appear on web or mobile. Availability depends on plan and workspace. [ChatGPT Work and Codex](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex).
+
+Do not assume these directions describe Codex, the API, or a work/education workspace. Check that product’s own controls and terms. Training, memory, shared links, and file access are separate questions.
 
 ## Claude personal account
 
-For Free, Pro, or Max: Settings → Privacy → turn off “Help Improve our AI models” if wanted. Anthropic says this stops new chats and coding sessions from future model training, and stops previously stored ones from future training runs; it does not undo training already begun. The policy describes exceptions for safety-flagged conversations. Commercial products have separate terms. [Anthropic’s model-improvement settings](https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings).
+**Training.** Name or initials → Settings → Privacy → turn off “Help improve Claude” if wanted. Anthropic says this stops new chats and coding sessions from future model training. The policy describes exceptions for safety-flagged conversations. Commercial products have separate terms. [Anthropic’s model-improvement settings](https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings).
+
+**Folder access.** Only the desktop app can open a folder. On paid plans, Cowork lets the person choose folders; Claude works only within what they choose and asks before deleting. The desktop app must stay open for it to reach the folder. [Getting started with Cowork](https://support.claude.com/en/articles/13345190-getting-started-with-cowork). On a free plan, Settings → Extensions → Filesystem, allowing only this folder, then quit and reopen the app.
+
+## Screen and computer control
+
+Both apps offer features that operate the screen, mouse, and other programs. This kit does not need them. If a permission prompt asks for screen recording, accessibility, or computer control, the person can decline and the workshop still works. If they choose it later, it should be for a named job, watched, and turned off afterward.
 
 ## Another app, or an account controlled by an organization
 

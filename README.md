@@ -20,7 +20,7 @@ Already have an AI you use and a way to open your files? Skip the parts you have
 
 ### 1. Choose the AI arrangement you are comfortable using
 
-You have thought about the relations, harms, costs, and possibilities involved, and chosen what you are willing to use for this work. That might be a corporate service such as Claude, ChatGPT, or Gemini, including a subscription if you choose. It might be an open-weight model running on your computer, or a harness that connects a model to tools. A harness is the surrounding software that lets a model work with things such as files.
+You have thought about the relations, harms, costs, and possibilities involved, and chosen what you are willing to use for this work. That might be a corporate service such as Claude or ChatGPT, including a subscription if you choose. It might be an open-weight model running on your computer, or a harness that connects a model to tools. A harness is the surrounding software that lets a model work with things such as files.
 
 These choices can be revisited. Paying for a service does not settle its ethics; using an open-weight model does not settle them either. What matters here includes where the work goes, who can access it, what your governing relations permit, and whether you are comfortable operating the software on your device. A free account may be enough for this starter conversation; the kit does not require a purchase.
 
@@ -30,7 +30,8 @@ These choices can be revisited. Paying for a service does not settle its ethics;
 |---|---|---|
 | Claude | [Download Claude](https://claude.com/download) or [open Claude in your browser](https://claude.ai/) | Choose the download for your device, install and open it, then sign in or create an account. The browser route is available if installation is unsuitable. |
 | ChatGPT | [Download ChatGPT](https://chatgpt.com/download/) or [open ChatGPT in your browser](https://chatgpt.com/) | Choose the supported app for your device, install and open it, then sign in or create an account. Follow the current download page’s device requirements. |
-| Gemini | [Open Gemini on your computer](https://gemini.google.com/) · [Google’s sign-in help](https://support.google.com/gemini/answer/13278668?hl=en) | The browser route works for desktop setup. Select Sign in and use your Google account; a school/work administrator may control availability. No separate desktop download is required for this route. |
+
+A browser chat works by pasting text in and saving replies yourself. For the AI to open your folder itself, use the Claude or ChatGPT desktop app, or a local harness, and give it access to this one folder only.
 
 Install only on a device where you are permitted to do so. Enter passwords in the actual app or website, never in an AI conversation. If an account or download is unavailable, ask your facilitator for another permitted route. Choosing an app does not give it access to all your files.
 
@@ -87,7 +88,7 @@ If it summarizes the prompt, say: **“Begin guiding me now. Give me the first s
 
 Before bringing your own work, ask the guide to help check [file permissions and training/data settings](editions/markdown/%5FMachine/SETTINGS-AND-STUCK.md). It can begin with an empty note while settings are unresolved. Downloading the app is not the same as agreeing that it may read your life.
 
-Official links and the named setup controls were checked on 10 September 2026. If the screen differs, tell the guide what it says; it should check current official help rather than insist the button must be there.
+Official links and the named setup controls were checked on 20 November 2026. A step-by-step walkthrough for the Claude and ChatGPT desktop apps, including backups, privacy settings, and keeping the folder out of OneDrive or iCloud, is at https://your-external-brain.netlify.app/setup.html. If the screen differs, tell the guide what it says; it should check current official help rather than insist the button must be there.
 
 ## Inside the folder
 

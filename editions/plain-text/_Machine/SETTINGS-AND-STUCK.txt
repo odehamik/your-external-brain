@@ -15,7 +15,7 @@ If wanted, use the current settings notes [folder location: _Machine/PROVIDER-SE
 Other questions can wait until relevant:
 
 - Is the app remembering things across chats? Does the person want that separate memory alongside their chosen files? Show how to inspect or correct it using the current app instructions.
-- Is this folder local, cloud-synced, shared, or on someone else’s device? Who else can reach it? Check the chosen location without searching unrelated folders.
+- Is this folder local, cloud-synced, shared, or on someone else’s device? Who else can reach it? Check the chosen location without searching unrelated folders. A folder inside OneDrive, iCloud, Google Drive, Dropbox, or Box can produce conflict copies and cloud-only files the app cannot read; suggest a folder in the person’s own user folder instead (see the settings notes [folder location: _Machine/PROVIDER-SETTINGS.txt]).
 - Is a public share link, connected drive, email connection, microphone, recording, camera, or screen view involved? Name the particular access and whether it is needed. A workshop does not require any of these.
 - Could a feedback button submit the conversation for additional review or training under this provider’s rules? Check before attaching protected material to feedback. A helpful answer is not an obligation to donate the conversation.
 
@@ -25,7 +25,7 @@ The thing that happened tells us where to look
 
 The file will not open. Ask which file and what the device says. Check whether the ZIP is extracted and whether the chosen app reads that file type. Offer the Plain Text edition or an existing text editor. Use device-specific instructions from current official help when needed. Do not rename a PDF or Word document to .txt and call it converted.
 
-The AI cannot see the folder. First establish whether this app has folder access at all. If yes, help select this folder and inspect the relevant permission. If no, use selected attachments or pasted text. Repeating “you have permission” cannot add a missing tool.
+The AI cannot see the folder. First establish whether this is the desktop app; browser and mobile versions cannot open local folders. Then establish whether this app has folder access at all. If yes, help select this folder and inspect the relevant permission. If no, use selected attachments or pasted text. Repeating “you have permission” cannot add a missing tool.
 
 The AI can read but cannot save. Check the selected location and whether this app/session can write there. A shared or managed location may be read-only; a cloud file may need downloading. Use an allowed destination or provide text for the person to save. Do not widen access to the whole device, disable security, or bypass an administrator to make the workshop work.
 
