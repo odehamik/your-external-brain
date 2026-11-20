@@ -1,5 +1,12 @@
 # Changes
 
+## 2026-11-20 — Links and folder access
+
+- Removed Gemini as a recommended route: its chat app cannot open a participant's folder, and Gemini CLI is no longer offered to individual accounts. Participants using another service still have the general provider-settings guidance.
+- Explained the difference between a browser chat (paste in, save replies yourself) and the Claude or ChatGPT desktop apps or a local harness (can open one permitted folder).
+- Fixed the CARE principles link (gida-global.org/care now returns 404; /careprinciples works).
+- Provider settings dates unchanged: the ChatGPT and Claude notes were not re-verified in this change.
+
 ## 2026-09-10 — Guided entry
 
 Revises the accepted Draft 7 after Maya reported that a Plain Text participant could not get the LLM to start guiding setup. The failed participant transcript was not inspected.

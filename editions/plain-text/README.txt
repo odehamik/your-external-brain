@@ -20,7 +20,7 @@ Already have an AI you use and a way to open your files? Skip the parts you have
 
 1. Choose the AI arrangement you are comfortable using
 
-You have thought about the relations, harms, costs, and possibilities involved, and chosen what you are willing to use for this work. That might be a corporate service such as Claude, ChatGPT, or Gemini, including a subscription if you choose. It might be an open-weight model running on your computer, or a harness that connects a model to tools. A harness is the surrounding software that lets a model work with things such as files.
+You have thought about the relations, harms, costs, and possibilities involved, and chosen what you are willing to use for this work. That might be a corporate service such as Claude or ChatGPT, including a subscription if you choose. It might be an open-weight model running on your computer, or a harness that connects a model to tools. A harness is the surrounding software that lets a model work with things such as files.
 
 These choices can be revisited. Paying for a service does not settle its ethics; using an open-weight model does not settle them either. What matters here includes where the work goes, who can access it, what your governing relations permit, and whether you are comfortable operating the software on your device. A free account may be enough for this starter conversation; the kit does not require a purchase.
 
@@ -34,10 +34,8 @@ ChatGPT
 Official place to begin: Download ChatGPT — https://chatgpt.com/download/ or open ChatGPT in your browser — https://chatgpt.com/
 What to do: Choose the supported app for your device, install and open it, then sign in or create an account. Follow the current download page’s device requirements.
 
-Gemini
-Official place to begin: Open Gemini on your computer — https://gemini.google.com/ · Google’s sign-in help — https://support.google.com/gemini/answer/13278668?hl=en
-What to do: The browser route works for desktop setup. Select Sign in and use your Google account; a school/work administrator may control availability. No separate desktop download is required for this route.
 
+A browser chat works by pasting text in and saving replies yourself. For the AI to open your folder itself, use the Claude or ChatGPT desktop app, or a local harness, and give it access to this one folder only.
 
 Install only on a device where you are permitted to do so. Enter passwords in the actual app or website, never in an AI conversation. If an account or download is unavailable, ask your facilitator for another permitted route. Choosing an app does not give it access to all your files.
 
