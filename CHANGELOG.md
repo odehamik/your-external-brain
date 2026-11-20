@@ -6,6 +6,7 @@
 - Explained the difference between a browser chat (paste in, save replies yourself) and the Claude or ChatGPT desktop apps or a local harness (can open one permitted folder).
 - The One List now says how things leave: done or let go both close an item; waiting-on-others has its own section; the PM proposes, the person ticks.
 - Website: step 1 gains a short note on harnesses as something to build toward; a new step 4 points to a new Next steps tab (custom harness, choosing models per job, retrieval with AnythingLLM and a five-minute sync, n8n, departments, why Markdown, keeping a brain healthy, troubleshooting) with a collapsible description of the actual retrieval pipeline for technical readers.
+- Website: the opening strip gains a fourth card (Build toward more); Next steps gains an Under the hood section for technical readers (the harness switchboard, the preflight check, communication states, the guarded task-list writer, safety nets, continuity across carriers, the model watcher, and the voice corpus plan), each marked built or in progress.
 - Fixed the CARE principles link (gida-global.org/care now returns 404; /careprinciples works).
 - Provider settings dates unchanged: the ChatGPT and Claude notes were not re-verified in this change.
 
